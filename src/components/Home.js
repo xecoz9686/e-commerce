@@ -16,6 +16,7 @@ function Home() {
       </Button></a>
 
       </div>
+      <div>SHREENIDHI</div>
       <div className='sub-container'>
         <img src='https://www.pixel-studios.com/ecommerce-website-development/images/hero-illustration-2.png'></img>
       </div>
